@@ -46,6 +46,10 @@ streamlit run app/app.py
 
 ---
 
+## 📽️ Video Demo
+
+[Click here to watch the demo](https://www.loom.com/share/f050790a13124a01bd2c0328d6838113?sid=97e82029-8ce9-4767-a8ff-f1e0aaa31e47)
+
 ## 🔗 GitHub Repository
 
 You can view the full project and code here:  
