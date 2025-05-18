@@ -29,14 +29,16 @@ This project uses a deep learning model (Vision Transformer) to detect plant lea
 
 ## 📁 Project Structure
 
-- `app/` – Streamlit app (app.py)
-- `data/` – Subset of the PlantVillage dataset used for training
-- `models/` – Model architecture setup (Vision Transformer)
-- `utils/` – Preprocessing code (resizing, augmentation, etc.)
-- `outputs/` – Trained model output file (.pth)
-- `main.py` – Script to train the model
-- `trim_subset.py` – Helper script to reduce images per class
-- `README.md` – You're reading it!
+- `app/` – My Streamlit app for uploading and predicting leaf diseases  
+- `data/` – The subset of the PlantVillage dataset I used for training  
+- `models/` – Contains the Vision Transformer model setup  
+- `utils/` – Preprocessing code (resizing, normalization, etc.)  
+- `outputs/` – Folder where the trained model (`best_model.pth`) is saved  
+- `main.py` – Script I used to train the model  
+- `trim_subset.py` – Helper to limit images per class (kept it small for fast training)  
+- `README.md` – Overview and instructions for the whole project  
+- `report.md` – My final write-up for the project (background, methods, results)
+
 
 ---
 
