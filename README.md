@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Train the Model (Optional)
+## 🧪 Train the Model 
 
 I trained a Vision Transformer (ViT) on a subset of the PlantVillage dataset using five classes. Each class was trimmed to around 100 images for faster training.
 
